@@ -9,4 +9,4 @@
 
 # 😄 🐶
 
-![NKUST](nkust.png)
+![NKUST](NKUST.png)
