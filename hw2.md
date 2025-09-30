@@ -28,12 +28,13 @@ flowchart LR
     no10 --> no11
 
     %% 標示關鍵路徑
-    style no1 fill:#f99,stroke:#333,stroke-width:2px
-    style no2 fill:#f99,stroke:#333,stroke-width:2px
-    style no4 fill:#f99,stroke:#333,stroke-width:2px
-    style no6 fill:#f99,stroke:#333,stroke-width:2px
-    style no9 fill:#f99,stroke:#333,stroke-width:2px
-    style no11 fill:#f99,stroke:#333,stroke-width:2px
+    style no1 fill:#f88,stroke:#333,stroke-width:2px
+    style no2 fill:#f88,stroke:#333,stroke-width:2px
+    style no4 fill:#f88,stroke:#333,stroke-width:2px
+    style no6 fill:#f88,stroke:#333,stroke-width:2px
+    style no9 fill:#f88,stroke:#333,stroke-width:2px
+    style no11 fill:#f88,stroke:#333,stroke-width:2px
+
 ```
 
 ## 甘特圖
